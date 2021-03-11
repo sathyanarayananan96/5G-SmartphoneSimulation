@@ -1,3 +1,5 @@
+# User 2- Same as user 1. Look at the user1.py program
+# This program is written symmetrically to show the interaction between two users through the 5G network.
 import math
 import numpy as np
 import csv
